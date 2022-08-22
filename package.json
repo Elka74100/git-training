@@ -1,0 +1,19 @@
+{
+  "name": "git-training",
+  "version": "0.2.0",
+  "description": "Luc Kaing 22/08/2022",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elka74100/git-training.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Elka74100/git-training/issues"
+  },
+  "homepage": "https://github.com/Elka74100/git-training#readme"
+}
